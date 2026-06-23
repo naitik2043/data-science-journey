@@ -1,0 +1,67 @@
+[
+    {
+        "name": "Mansi",
+        "school": "LLT",
+        "marks": 86
+    },
+    {
+        "name": "Meet",
+        "school": "KKL",
+        "marks": 84
+    },
+    {
+        "name": "Naitik",
+        "school": "BNSD",
+        "marks": 90
+    },
+    {
+        "name": "Riya",
+        "school": "SVM",
+        "marks": 93
+    },
+    {
+        "name": "Navya",
+        "school": "TLM",
+        "marks": 89
+    },
+    {
+        "name": "Aryan",
+        "school": "DPS",
+        "marks": 91
+    },
+    {
+        "name": "Priya",
+        "school": "JPS",
+        "marks": 88
+    },
+    {
+        "name": "Harsh",
+        "school": "DPS",
+        "marks": 87
+    },
+    {
+        "name": "Sakshi",
+        "school": "JPS",
+        "marks": 95
+    },
+    {
+        "name": "Yash",
+        "school": "BNSD",
+        "marks": 83
+    },
+    {
+        "name": "Muskan",
+        "school": "CMS",
+        "marks": 89
+    },
+    {
+        "name": "Yukta",
+        "school": "DPS",
+        "marks": 82
+    },
+    {
+        "name": "Khushi",
+        "school": "KV",
+        "marks": 91
+    }
+]
