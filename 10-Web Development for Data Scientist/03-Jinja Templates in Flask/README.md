@@ -1,4 +1,4 @@
-# 03 - Jinja Templates in Flask
+# Jinja Templates in Flask
 
 ## 📌 What is Jinja2?
 
